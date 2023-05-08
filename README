@@ -1,7 +1,15 @@
 Ardu_Trackpoint2ADB:
 
-Adapt a PS/2 IBM trackpoint to ADB. Any arduino should work.
+Adapt a PS/2 IBM trackpoint to ADB. Any arduino should work, mind the pins.
+
+CODE ADAPTED FROM: 
+https://github.com/tmk/tmk_keyboard
+https://github.com/rampadc/arduino-trackpoint-extended 
 
 Attiny85_Apl2Mouse2ADB
 
 Adapt a Apple II or early macintosh mouse to ADB. Uses an Attiny85, requires fuses to be burnt to utilize all 6 IOs.
+
+CODE ADAPTED FROM: 
+https://github.com/tmk/tmk_keyboard
+https://github.com/floren/depraz-arduino
